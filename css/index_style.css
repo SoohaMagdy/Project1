@@ -102,7 +102,9 @@ h5{
 }
 #count{
     background-image: url(../images/project-counter.jpg);
-    background-color: rgba(0,0,0,0.7)
+    background-color: rgba(0,0,0,0.7);
+    background-attachment: fixed;
+        
 }
 .counter{border: 1px solid #969696}
 .item{position: relative}
